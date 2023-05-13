@@ -1,0 +1,28 @@
+
+nav li {
+	display: inline-flex;
+
+}
+nav a {
+	text-decoration: none;
+	color: #2b27b0;
+	padding: 15px;
+	width: 150px;
+}
+nav li:hover {
+	background-color: #b05109;
+}
+img {
+	width: 350px: ;
+	height:  150px;
+	border-radius: 20%;
+	object-fit: cover;
+}
+.contenido{
+	display: flex;
+	margin: 60px;	
+ }
+img {
+	width: 400px;
+	height: 250px;
+}
